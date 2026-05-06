@@ -13,3 +13,6 @@ sss
 
 ## slimak nadpis
 super poke
+
+## Kontakty
+zde nejaky pokec
